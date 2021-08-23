@@ -57,7 +57,7 @@ ul.actions.stacked li:first-child{
 	padding-right: 40px;
 	list-style: none;
 	background-color: #ffffff;
-	color: #000000;
+	color: #ffffff;
 	border-radius: 70px;
 	width: 80px;
 	height: 55px;
@@ -68,7 +68,7 @@ ul.actions.stacked li:first-child{
 	min-width: 14em;
 	background-color: transparent;
     box-shadow: inset 0 0 0 1px rgb(0 0 0 / 20%);
-    color: #000000 !important;	
+    color: #ffffff !important;	
 	display: inline-block;
 	font-weight: 400;
 	text-align: center;
@@ -113,4 +113,11 @@ p{
 }
 span{
 	text-decoration: underline;
+}
+#spotlight02{
+	margin-left: 862px;
+	margin-bottom: -500px;
+	width: 479px;
+	height: 367px;
+
 }
